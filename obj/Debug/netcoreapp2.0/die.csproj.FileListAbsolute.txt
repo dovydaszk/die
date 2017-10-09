@@ -1,0 +1,10 @@
+C:\Users\Dovydas\Documents\GitHub\Week03\die\bin\Debug\netcoreapp2.0\die.deps.json
+C:\Users\Dovydas\Documents\GitHub\Week03\die\bin\Debug\netcoreapp2.0\die.runtimeconfig.json
+C:\Users\Dovydas\Documents\GitHub\Week03\die\bin\Debug\netcoreapp2.0\die.runtimeconfig.dev.json
+C:\Users\Dovydas\Documents\GitHub\Week03\die\bin\Debug\netcoreapp2.0\die.dll
+C:\Users\Dovydas\Documents\GitHub\Week03\die\bin\Debug\netcoreapp2.0\die.pdb
+C:\Users\Dovydas\Documents\GitHub\Week03\die\obj\Debug\netcoreapp2.0\die.csproj.CoreCompileInputs.cache
+C:\Users\Dovydas\Documents\GitHub\Week03\die\obj\Debug\netcoreapp2.0\die.AssemblyInfoInputs.cache
+C:\Users\Dovydas\Documents\GitHub\Week03\die\obj\Debug\netcoreapp2.0\die.AssemblyInfo.cs
+C:\Users\Dovydas\Documents\GitHub\Week03\die\obj\Debug\netcoreapp2.0\die.dll
+C:\Users\Dovydas\Documents\GitHub\Week03\die\obj\Debug\netcoreapp2.0\die.pdb
